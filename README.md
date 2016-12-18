@@ -1,18 +1,18 @@
 # San Francisco Bay Area Recommendations
 
 ## Table of Contents
-* [Restaurants](#Restaurants)
-  * [Brunch](#Brunch)
-* [Coffee Shops](#Coffee Shops)
-* [Bars](#Bars)
-  * [Trivia](#Trivia)
-* [Bootie](#Bootie)
-* [Locations](#Locations)
-  * [Oakland](#Oakland)
-* [TV Shows](#TV-Shows)
-* [Movies](#Movies)
-* [IRL Shows](#IRL-Shows)
-* [Other](#Other)
+* [Restaurants](#restaurants)
+  * [Brunch](#brunch)
+* [Coffee Shops](#coffee-shops)
+* [Bars](#bars)
+  * [Trivia](#trivia)
+* [Bootie](#bootie)
+* [Locations](#locations)
+  * [Oakland](#oakland)
+* [TV Shows](#tv-shows)
+* [Movies](#movies)
+* [IRL Shows](#irl-shows)
+* [Other](#other)
 
 # The List
 ## Restaurants
