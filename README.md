@@ -75,6 +75,7 @@ Crossed-out entries indicate completion.
 * ~~Tacorea~~
 * Taqueria Cancun 
 * ~~Tartine (Manufactory)~~
+* ~~Umami Burger~~
 * Waraku Ramen
 * Wayfare Tavern
 * Woodhouse fish co 
