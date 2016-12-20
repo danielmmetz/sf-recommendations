@@ -1,4 +1,5 @@
 # San Francisco Bay Area Recommendations
+(crossed-out entries indicate completion)
 
 ## Table of Contents
 * [Restaurants](#restaurants)
