@@ -1,5 +1,4 @@
 # San Francisco Bay Area Recommendations
-(crossed-out entries indicate completion)
 
 ## Table of Contents
 * [Restaurants](#restaurants)
@@ -16,6 +15,8 @@
 * [Other](#other)
 
 # The List
+Crossed-out entries indicate completion.
+
 ## Restaurants
 * ~~4505 BBQ~~
 * Alembic
