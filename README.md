@@ -48,6 +48,7 @@ Crossed-out entries indicate completion.
 * HK Lounge 2 
 * HRD 
 * Kevin’s Pho 
+* ~~Kin Khao~~
 * Limon
  * chicken
 * LIttle Chihuahua
@@ -156,7 +157,7 @@ Crossed-out entries indicate completion.
 * Kell's
 * Kozy Kar
 * Latin America Club
-* Local edition
+* ~~Local edition~~
 * Lucky 13
   * may be closed
 * Magnolia
@@ -167,11 +168,11 @@ Crossed-out entries indicate completion.
 * Novella 
   * good for dates
 * Oddjob
-* Pagan Idol
+* ~~Pagan Idol~~
 * Prizefighter (Emeryville)
 * Refuge (San Carlos/Menlo Park)
   * belgians
-* Rickhouse
+* ~~Rickhouse~~
 * Royal Cuckoo
 * Rye
 * Schroeder's
