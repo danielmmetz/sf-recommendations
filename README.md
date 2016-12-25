@@ -28,6 +28,7 @@ Crossed-out entries indicate completion.
 * Blue Plate
 * Bobo’s
  * steak
+* ~~Brenda’s (Original)~~
 * Brenda’s Meat and Three
 * Burma superstar
 * ~~B’ Patisserie~~
@@ -58,7 +59,6 @@ Crossed-out entries indicate completion.
 * NoPa 
 * Nopalito
 * Octavia
-* Original Brenda’s
 * Padrecito
 * Pakwan (Indian/Pakistani food, killer Naan) 
 * Pancho Villa
@@ -84,7 +84,7 @@ Crossed-out entries indicate completion.
 
 ### Brunch
 * Farmer Brown’s little skillet
-  * fried chicken
+ * fried chicken
 * Foreign Cinema
 * ~~Mama's~~
 * Mission Beach Cafe
@@ -92,7 +92,7 @@ Crossed-out entries indicate completion.
 * Pearls Deluxe Burgers 
 * Plow
 * Sweet Maple (or Kitchen Story, same thing) 
-  * millionaire’s bacon
+ * millionaire’s bacon
 * The Sycamore
 * Universal Cafe
 * ~~Zazie’s~~
@@ -104,17 +104,18 @@ Crossed-out entries indicate completion.
 * ~~Blue Bottle~~
 * ~~Boba Guys (on Octavia)~~
 * Coffee Bar 
-  * cold brew
+ * cold brew
 * Contraband coffee
 * ~~Craftsman and Wolves~~
 * Darwin Cafe and get De La Paz coffee
 * Equator 
  * [only go when they have $15 cups of coffee](http://www.pressdemocrat.com/lifestyle/5222004-181/coffe-lovers-buzzing-about-15)
-* Farley’s (-1 josh) blech. (blend of De La Paz) (get the coldbrew)
+* Farley’s 
+ * coldbrew
 * Flywheel
 * Four Barrel 
 * Modern Coffee (Oakland)
-  * only open on weekdays
+ * only open on weekdays
 * ~~Mojo~~
 * Papa November
 * Ritual
@@ -166,12 +167,12 @@ Crossed-out entries indicate completion.
 * Nature Friends Tourist Club
 * Noc Noc
 * Novella 
-  * good for dates
+ * good for dates
 * Oddjob
 * ~~Pagan Idol~~
 * Prizefighter (Emeryville)
 * Refuge (San Carlos/Menlo Park)
-  * belgians
+ * belgians
 * ~~Rickhouse~~
 * Royal Cuckoo
 * Rye
@@ -201,7 +202,7 @@ Crossed-out entries indicate completion.
 * Bootie SF
 * Butter
 * Mission Dance
-  * cheap drop-in dance lessons
+ * cheap drop-in dance lessons
   
 ## Locations
 * 826 Valencia
@@ -216,33 +217,33 @@ Crossed-out entries indicate completion.
 * Land’s End
 * Macondry Lane
 * Muir Woods/Mt Tam 
-  * see Nature Friends Tourist Club
+ * see Nature Friends Tourist Club
 * Napa
 * Paxton Gate too
 * Sausalito
 * Outer Sunset
-  * big cool mosaic stairs 
+ * big cool mosaic stairs 
 * Tiburon 
-  * cuter version of Sausalito
+ * cuter version of Sausalito
 * ~~Twin peaks~~
 
 ### Oakland
 * Arizmendi (Lake Merritt)
-  * bakery and pizza
+ * bakery and pizza
 * Beauty’s Bagels
 * Beer Revolution 
 * Cafe von Cleef
-  * drinks
+ * drinks
 * Fenton's
-  * historic ice cream
+ * historic ice cream
 * First Friday
 * Fox theater
-  * concerts
+ * concerts
 * Geta 
 * Homeroom 
 * Lake merritt
 * Make Westing 
-  * drinks
+ * drinks
 * Redwoods
 * The Trappist
 
@@ -269,11 +270,11 @@ Crossed-out entries indicate completion.
 ## IRL Shows
 * Beach Blanket Babylon
 * The Little Lodge (Sunset)
-  * art shows
+ * art shows
 * Motified Live at DNA Longue
 * Stage Werx
-  * Your F\*\*ucked Up Relationship
-  * anything dmoreh is in
+ * Your F\*\*ucked Up Relationship
+ * anything dmoreh is in
 * [Tmlmtbgb](http://www.sfneofuturists.com/tmlmtbgb/)
 
 ## Other
