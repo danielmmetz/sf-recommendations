@@ -53,7 +53,7 @@ Crossed-out entries indicate completion.
 * Kin Khao
 * Limon
   * chicken
-* LIttle Chihuahua
+* Little Chihuahua
 * Lolinda
 * Mikkeller’s
 * Monk’s Kettle
