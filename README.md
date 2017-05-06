@@ -31,7 +31,7 @@ Crossed-out entries indicate completion.
 * Brenda’s (Original)
 * Brenda’s Meat and Three
 * Burma Love
-* Burma superstar
+* Burma Superstar
 * B’ Patisserie
 * Contigo
 * Coqueta
@@ -84,9 +84,9 @@ Crossed-out entries indicate completion.
 * Yummy Yummy
 
 ### Brunch
-* Farmer Brown’s little skillet
-  * fried chicken
 * Foreign Cinema
+* Little Skillet
+  * fried chicken
 * Mama's
 * Mission Beach Cafe
 * Original Brenda's
