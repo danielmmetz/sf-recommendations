@@ -30,6 +30,7 @@ Crossed-out entries indicate completion.
   * steak
 * Brenda’s (Original)
 * Brenda’s Meat and Three
+* Burma Love
 * Burma superstar
 * B’ Patisserie
 * Contigo
