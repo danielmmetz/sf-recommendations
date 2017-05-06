@@ -18,23 +18,23 @@
 Crossed-out entries indicate completion.
 
 ## Restaurants
-* ~~4505 BBQ~~
+* 4505 BBQ
 * Alembic
 * Al’s Place
 * Arizme ndi
 * B star
 * Bacon Bacon
-* Beretta 
+* Beretta
 * Blue Plate
 * Bobo’s
  * steak
-* ~~Brenda’s (Original)~~
+* Brenda’s (Original)
 * Brenda’s Meat and Three
 * Burma superstar
-* ~~B’ Patisserie~~
-* Contigo 
-* Coqueta 
-* ~~Dragon Beaux~~
+* B’ Patisserie
+* Contigo
+* Coqueta
+* Dragon Beaux
 * Easy Breezy
  * froyo
 * Eiji
@@ -43,97 +43,97 @@ Crossed-out entries indicate completion.
 * Fish
  * Sausalito
 * Fortune Cookie Factory (North Beach)
-* ~~Garaje~~
+* Garaje
 * Giordano Bros
  * good PITTSBURGH sandwiches
-* HK Lounge 2 
-* HRD 
-* Kevin’s Pho 
-* ~~Kin Khao~~
+* HK Lounge 2
+* HRD
+* Kevin’s Pho
+* Kin Khao
 * Limon
  * chicken
 * LIttle Chihuahua
 * Lolinda
 * Mikkeller’s
 * Monk’s Kettle
-* NoPa 
+* NoPa
 * Nopalito
 * Octavia
 * Padrecito
-* Pakwan (Indian/Pakistani food, killer Naan) 
+* Pakwan (Indian/Pakistani food, killer Naan)
 * Pancho Villa
  * baby burrito!
-* Parada 22 
+* Parada 22
 * Park Chow
-* Pianofight 
+* Pianofight
 * Pork Store Cafe
 * ROAM burgers
-* ~~Souvla~~
+* Souvla
 * State Bird Provisions
  * get a reservation
 * Street meat
  * look for the hot dog stands in the mission. Any hot dog stand will do.
-* ~~Tacorea~~
-* Taqueria Cancun 
-* ~~Tartine (Manufactory)~~
-* ~~Umami Burger~~
+* Tacorea
+* Taqueria Cancun
+* Tartine (Manufactory)
+* Umami Burger
 * Waraku Ramen
 * Wayfare Tavern
-* Woodhouse fish co 
-* Yummy Yummy 
+* Woodhouse fish co
+* Yummy Yummy
 
 ### Brunch
 * Farmer Brown’s little skillet
  * fried chicken
 * Foreign Cinema
-* ~~Mama's~~
+* Mama's
 * Mission Beach Cafe
 * Original Brenda's
-* Pearls Deluxe Burgers 
+* Pearls Deluxe Burgers
 * Plow
-* Sweet Maple (or Kitchen Story, same thing) 
+* Sweet Maple (or Kitchen Story, same thing)
  * millionaire’s bacon
 * The Sycamore
 * Universal Cafe
-* ~~Zazie’s~~
+* Zazie’s
 
 ## Coffee Shops
 * 50/50
 * Andytown
 * Bicycle Coffee
-* ~~Blue Bottle~~
-* ~~Boba Guys (on Octavia)~~
-* Coffee Bar 
+* Blue Bottle
+* Boba Guys (on Octavia)
+* Coffee Bar
  * cold brew
 * Contraband coffee
-* ~~Craftsman and Wolves~~
+* Craftsman and Wolves
 * Darwin Cafe and get De La Paz coffee
-* Equator 
+* Equator
  * [only go when they have $15 cups of coffee](http://www.pressdemocrat.com/lifestyle/5222004-181/coffe-lovers-buzzing-about-15)
-* Farley’s 
+* Farley’s
  * coldbrew
 * Flywheel
-* Four Barrel 
+* Four Barrel
 * Modern Coffee (Oakland)
  * only open on weekdays
-* ~~Mojo~~
+* Mojo
 * Papa November
 * Ritual
-* ~~Saint Frank~~
-* Sextant 
-* Sightglass 
+* Saint Frank
+* Sextant
+* Sightglass
 * Stanza (16h or Upper Haight)
-* ~~The Mill~~
+* The Mill
 * Trouble Coffee co.
 * Una Pizza Napoletana
 * YaqiniQ
 
 ## Bars
 * 15 romolo
-* ~~21st amendment~~
+* 21st amendment
 * Alembic
 * Bar 821
-* Bar None 
+* Bar None
 * Bender’s
 * Benjamin Cooper
 * Bitters Bock & Rye
@@ -158,28 +158,28 @@ Crossed-out entries indicate completion.
 * Kell's
 * Kozy Kar
 * Latin America Club
-* ~~Local edition~~
+* Local edition
 * Lucky 13
   * may be closed
 * Magnolia
 * Mikkeller
-* Mosto 
+* Mosto
 * Nature Friends Tourist Club
 * Noc Noc
-* Novella 
+* Novella
  * good for dates
 * Oddjob
-* ~~Pagan Idol~~
+* Pagan Idol
 * Prizefighter (Emeryville)
 * Refuge (San Carlos/Menlo Park)
  * belgians
-* ~~Rickhouse~~
+* Rickhouse
 * Royal Cuckoo
 * Rye
 * Schroeder's
 * Smugglers Cove
 * Soda Popinski’s
-* ~~Southern Pacific Brewing Co~~
+* Southern Pacific Brewing Co
 * Specs’ Twelve Adler Museum Cafe
 * The Beer Hall
 * The Chieftian
@@ -194,7 +194,7 @@ Crossed-out entries indicate completion.
 * Zeitgeist
 
 ### Trivia
-* ~~Mad Dog in the Fog~~
+* Mad Dog in the Fog
 * Napper Tandy
 * Hi Tops Tuesday Night
 
@@ -203,7 +203,7 @@ Crossed-out entries indicate completion.
 * Butter
 * Mission Dance
  * cheap drop-in dance lessons
-  
+
 ## Locations
 * 826 Valencia
 * Alamo Drafthouse (reserved seating)
@@ -216,22 +216,22 @@ Crossed-out entries indicate completion.
 * Kabuki Theater (reserved seating)
 * Land’s End
 * Macondry Lane
-* Muir Woods/Mt Tam 
+* Muir Woods/Mt Tam
  * see Nature Friends Tourist Club
 * Napa
 * Paxton Gate too
 * Sausalito
 * Outer Sunset
- * big cool mosaic stairs 
-* Tiburon 
+ * big cool mosaic stairs
+* Tiburon
  * cuter version of Sausalito
-* ~~Twin peaks~~
+* Twin peaks
 
 ### Oakland
 * Arizmendi (Lake Merritt)
  * bakery and pizza
 * Beauty’s Bagels
-* Beer Revolution 
+* Beer Revolution
 * Cafe von Cleef
  * drinks
 * Fenton's
@@ -239,31 +239,31 @@ Crossed-out entries indicate completion.
 * First Friday
 * Fox theater
  * concerts
-* Geta 
-* Homeroom 
+* Geta
+* Homeroom
 * Lake merritt
-* Make Westing 
+* Make Westing
  * drinks
 * Redwoods
 * The Trappist
 
 ## TV Shows
-* ~~Arrested Development~~
-* ~~Bo Jack Horseman~~
-* ~~Bob’s Burgers~~
+* Arrested Development
+* Bo Jack Horseman
+* Bob’s Burgers
 * Fixer upper
-* ~~Full House~~
-* ~~Fuller House~~
+* Full House
+* Fuller House
 * Gilmore Girls
 * Great British Bake Off
-* ~~Moone Boy~~
+* Moone Boy
 * The Crown
 * Tiny House Nation
-* ~~Westworld~~
+* Westworld
 
 ## Movies
-* ~~Office Space~~
-* ~~Princess Bride~~
+* Office Space
+* Princess Bride
 * Road House
 * The Big Lebowski
 
