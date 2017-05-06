@@ -18,7 +18,7 @@
 Crossed-out entries indicate completion.
 
 ## Restaurants
-* 4505 BBQ
+* ~~4505 BBQ~~
 * Alembic
 * Al’s Place
 * Arizme ndi
@@ -28,11 +28,11 @@ Crossed-out entries indicate completion.
 * Blue Plate
 * Bobo’s
   * steak
-* Brenda’s (Original)
+* ~~Brenda’s (Original)~~
 * Brenda’s Meat and Three
-* Burma Love
+* ~~Burma Love~~
 * Burma superstar
-* B’ Patisserie
+* ~~B’ Patisserie~~
 * Contigo
 * Coqueta
 * Dragon Beaux
@@ -44,16 +44,16 @@ Crossed-out entries indicate completion.
 * Fish
   * Sausalito
 * Fortune Cookie Factory (North Beach)
-* Garaje
+* ~~Garaje~~
 * Giordano Bros
   * good PITTSBURGH sandwiches
-* HK Lounge 2
+* ~~HK Lounge 2~~
 * HRD
 * Kevin’s Pho
 * Kin Khao
 * Limon
   * chicken
-* Little Chihuahua
+* ~~Little Chihuahua~~
 * Lolinda
 * Mikkeller’s
 * Monk’s Kettle
@@ -66,18 +66,18 @@ Crossed-out entries indicate completion.
   * baby burrito!
 * Parada 22
 * Park Chow
-* Pianofight
+* ~~Pianofight~~
 * Pork Store Cafe
 * ROAM burgers
-* Souvla
+* ~~Souvla~~
 * State Bird Provisions
   * get a reservation
 * Street meat
   * look for the hot dog stands in the mission. Any hot dog stand will do.
-* Tacorea
+* ~~Tacorea~~
 * Taqueria Cancun
-* Tartine (Manufactory)
-* Umami Burger
+* ~~Tartine (Manufactory)~~
+* ~~Umami Burger~~
 * Waraku Ramen
 * Wayfare Tavern
 * Woodhouse fish co
@@ -87,51 +87,51 @@ Crossed-out entries indicate completion.
 * Farmer Brown’s little skillet
   * fried chicken
 * Foreign Cinema
-* Mama's
-* Mission Beach Cafe
-* Original Brenda's
+* ~~Mama's~~
+* ~~Mission Beach Cafe~~
+* ~~Original Brenda's~~
 * Pearls Deluxe Burgers
 * Plow
 * Sweet Maple (or Kitchen Story, same thing)
   * millionaire’s bacon
 * The Sycamore
 * Universal Cafe
-* Zazie’s
+* ~~Zazie’s~~
 
 ## Coffee Shops
 * 50/50
 * Andytown
 * Bicycle Coffee
-* Blue Bottle
-* Boba Guys (on Octavia)
+* ~~Blue Bottle~~
+* ~~Boba Guys (on Octavia)~~
 * Coffee Bar
   * cold brew
 * Contraband coffee
-* Craftsman and Wolves
+* ~~Craftsman and Wolves~~
 * Darwin Cafe and get De La Paz coffee
 * Equator
   * [only go when they have $15 cups of coffee](http://www.pressdemocrat.com/lifestyle/5222004-181/coffe-lovers-buzzing-about-15)
 * Farley’s
   * coldbrew
 * Flywheel
-* Four Barrel
+* ~~Four Barrel~~
 * Modern Coffee (Oakland)
   * only open on weekdays
-* Mojo
+* ~~Mojo~~
 * Papa November
-* Ritual
-* Saint Frank
+* ~~Ritual~~
+* ~~Saint Frank~~
 * Sextant
-* Sightglass
+* ~~Sightglass~~
 * Stanza (16h or Upper Haight)
-* The Mill
+* ~~The Mill~~
 * Trouble Coffee co.
 * Una Pizza Napoletana
 * YaqiniQ
 
 ## Bars
 * 15 romolo
-* 21st amendment
+* ~~21st amendment~~
 * Alembic
 * Bar 821
 * Bar None
@@ -143,7 +143,7 @@ Crossed-out entries indicate completion.
 * Campus
 * City Beer Store
 * Devil’s Acre (the basement)
-* Doc’s Clock
+* ~~Doc’s Clock~~
 * Dr. Teeth
 * El Rio
 * El Techo
@@ -153,13 +153,13 @@ Crossed-out entries indicate completion.
 * Hogwash
 * Holy Mountain
 * Holy Water
-* Hop Water Distribution
+* ~~Hop Water Distribution~~
 * Interval at Longbow (Presidio)
 * Jackalope
 * Kell's
 * Kozy Kar
 * Latin America Club
-* Local edition
+* ~~Local edition~~
 * Lucky 13
   * may be closed
 * Magnolia
@@ -170,32 +170,32 @@ Crossed-out entries indicate completion.
 * Novella
   * good for dates
 * Oddjob
-* Pagan Idol
+* ~~Pagan Idol~~
 * Prizefighter (Emeryville)
 * Refuge (San Carlos/Menlo Park)
   * belgians
-* Rickhouse
+* ~~Rickhouse~~
 * Royal Cuckoo
 * Rye
 * Schroeder's
-* Smugglers Cove
-* Soda Popinski’s
-* Southern Pacific Brewing Co
+* ~~Smugglers Cove~~
+* ~~Soda Popinski’s~~
+* ~~Southern Pacific Brewing Co~~
 * Specs’ Twelve Adler Museum Cafe
 * The Beer Hall
 * The Chieftian
 * THE PAGE
-* Third Rail
+* ~~Third Rail~~
 * Toronado
-* Trick Dog
+* ~~Trick Dog~~
 * Up Cider
 * Vesuvio
 * Virgil’s Sea Room
 * White Chapel
-* Zeitgeist
+* ~~Zeitgeist~~
 
 ### Trivia
-* Mad Dog in the Fog
+* ~~Mad Dog in the Fog~~
 * Napper Tandy
 * Hi Tops Tuesday Night
 
@@ -226,7 +226,7 @@ Crossed-out entries indicate completion.
   * big cool mosaic stairs
 * Tiburon
   * cuter version of Sausalito
-* Twin peaks
+* ~~Twin peaks~~
 
 ### Oakland
 * Arizmendi (Lake Merritt)
@@ -249,21 +249,21 @@ Crossed-out entries indicate completion.
 * The Trappist
 
 ## TV Shows
-* Arrested Development
-* Bo Jack Horseman
-* Bob’s Burgers
+* ~~Arrested Development~~
+* ~~Bo Jack Horseman~~
+* ~~Bob’s Burgers~~
 * Fixer upper
-* Full House
-* Fuller House
+* ~~Full House~~
+* ~~Fuller House~~
 * Gilmore Girls
 * Great British Bake Off
 * Moone Boy
 * The Crown
 * Tiny House Nation
-* Westworld
+* ~~Westworld~~
 
 ## Movies
-* Office Space
+* ~~Office Space~~
 * Princess Bride
 * Road House
 * The Big Lebowski
@@ -280,4 +280,4 @@ Crossed-out entries indicate completion.
 
 ## Other
 * Listen to Mitch Hedberg
-* Drink Fernet
+* ~~Drink Fernet~~
