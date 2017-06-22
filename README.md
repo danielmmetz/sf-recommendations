@@ -1,21 +1,22 @@
 # San Francisco Bay Area Recommendations
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-## Table of Contents
-* [Restaurants](#restaurants)
-  * [Brunch](#brunch)
-* [Coffee Shops](#coffee-shops)
-* [Bars](#bars)
-  * [Trivia](#trivia)
-* [Bootie](#bootie)
-* [Locations](#locations)
-  * [Oakland](#oakland)
-* [TV Shows](#tv-shows)
-* [Movies](#movies)
-* [IRL Shows](#irl-shows)
-* [Other](#other)
+- [Restaurants](#restaurants)
+  - [Brunch](#brunch)
+- [Coffee Shops](#coffee-shops)
+- [Bars](#bars)
+  - [Trivia](#trivia)
+- [Bootie](#bootie)
+- [Locations](#locations)
+  - [Oakland](#oakland)
+- [TV Shows](#tv-shows)
+- [Movies](#movies)
+- [IRL Shows](#irl-shows)
+- [Other](#other)
 
-# The List
-Crossed-out entries indicate completion.
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Restaurants
 * 4505 BBQ
